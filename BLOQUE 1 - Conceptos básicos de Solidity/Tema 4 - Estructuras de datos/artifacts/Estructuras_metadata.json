@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BLOQUE 1 - Conceptos básicos de Solidity/Tema 4 - Estructuras de datos/Estructuras.sol": "Estructuras"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BLOQUE 1 - Conceptos básicos de Solidity/Tema 4 - Estructuras de datos/Estructuras.sol": {
+			"keccak256": "0xf92afb0ab67e0e8c9e41795e97c6a398a925971374571da88dc2c13e4ccbadc9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1b0b8bf74bb96633a8472dee4ad976ac1265a254b74625b1c1bcd1ebb5d67c26",
+				"dweb:/ipfs/QmeXeTzbmKjFKd6uNNP9X4JWG9AbwEAZJoTzuo8HHygKWH"
+			]
+		}
+	},
+	"version": 1
+}

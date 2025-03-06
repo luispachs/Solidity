@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 //Especificar la version
-pragma solidity >=0.4.4 <0.7.0;
+pragma solidity >=0.8.2 <0.9.0;
 
 contract bucle_for{
     

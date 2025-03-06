@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 //Indicar la version
-pragma solidity >=0.4.4 <0.7.0;
+pragma solidity >=0.8.2 <0.9.0;
 
 contract sentencia_if{
     
@@ -69,7 +69,7 @@ contract sentencia_if{
                 if(keccak256(abi.encodePacked(_candidato))==keccak256(abi.encodePacked("Maria"))){
                     mensaje = "Has votado correctamente a Maria";
                 }else{
-                    mensaje = "Has votado a un candidato que no está en la lista";
+                    mensaje = "Has votado a un candidato que no est\xC3\xA1 en la lista";
                 }
             }
         }
